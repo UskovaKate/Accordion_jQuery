@@ -1,3 +1,3 @@
 # Accordion_jQuery
 
-![screenshot](Accordion.png)
+![screenshot](accordion.png)
